@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 78bf2a9b5c6ab4fc58fef815080fb057
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _cubemap1: {fileID: 8900000, guid: 0e3a15446a5c64a5ebd39fe06f6382dc, type: 3}
+  - _cubemap2: {fileID: 8900000, guid: cfc0f204f9cca4f5898f2bb92a25fefb, type: 3}
+  - _reflectionProbe: {instanceID: 0}
+  - _blenderShader: {fileID: 4800000, guid: a03c99ef284ea451aa61bb9cea81af11, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
